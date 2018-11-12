@@ -4,8 +4,8 @@ import {AppRegistry} from 'react-native';
 import App from './App';
 import {name as appName} from './app.json';
 
-import {Three} from './day1';
+import {Four} from './day1';
 
-const AppBootstrapComponent = Three;
+const AppBootstrapComponent = Four;
 
 AppRegistry.registerComponent(appName, () => AppBootstrapComponent);
