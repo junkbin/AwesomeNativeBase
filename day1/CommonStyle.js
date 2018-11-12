@@ -9,7 +9,7 @@ let commonStyles = StyleSheet.create({
     },
 
     bgfy : {
-        backgroundColor: 'tomato',
+        backgroundColor: 'royalblue',
     },
 
     colorfy : {
@@ -18,7 +18,8 @@ let commonStyles = StyleSheet.create({
 
     fontify : {
         fontSize : 30,
-        fontFamily: 'cursive'
+        fontFamily: 'cursive',
+        fontWeight: '900'
     }
 
 });

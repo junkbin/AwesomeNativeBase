@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, Text } from 'native-base';
+import { View, Text } from 'react-native';
 
 import commonStyles from './CommonStyle';
 export default class Three extends React.Component {
