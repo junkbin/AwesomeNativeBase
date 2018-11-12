@@ -18,8 +18,7 @@ let commonStyles = StyleSheet.create({
 
     fontify : {
         fontSize : 30,
-        fontFamily: 'cursive',
-        fontWeight: '400',
+        fontFamily: 'cursive'
     }
 
 });
