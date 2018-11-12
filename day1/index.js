@@ -1,4 +1,4 @@
-import One from './1.js';
+import One from './1';
+import Two from './2'
 
-
-export {One};
+export {One, Two};
